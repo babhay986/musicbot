@@ -1,4 +1,4 @@
-# musicbot TELEGRAM VC MUSIC BOT 
+# 🇮🇳 TipsTrick🇮🇳 TELEGRAM VC MUSIC BOT 
 [![musicbot logo](https://te.legra.ph/file/d6962ff0479401cdbbb0c.jpg)(https://t.me/+UWFtw9r8HAFlYWQ1))
 
 
