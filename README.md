@@ -70,8 +70,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - [Group]](https://t.me/+g3ATuEkmNCowODFl))
 
 ## Credits
-- [iisgaurav](https://github.com/babhay986): developer
-- [Roj](https://github.com/babhay986)
-- [Marvin](https://github.com/babhay986)
-- [Laky](https://github.com/babhay986) & [Andrew](https://github.com/babhay986): PyTgCalls
+- [babhay986](https://github.com/babhay986): developer
+- [TipsTrick](https://github.com/babhay986)
+- [babhay986](https://github.com/babhay986)
+- [babhay986](https://github.com/babhay986) & [Andrew](https://github.com/babhay986): PyTgCalls
 
